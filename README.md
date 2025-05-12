@@ -40,8 +40,3 @@ A complete redesign of the MakeMyTrip interface using Google's **Material 3** de
 > **Tools**: Figma, Material Design 3 Guidelines
 
 ---
-
-## 📁 Folder Structure
-
-Each project has its own folder containing design files (Figma links or exports), assets, and notes.
-
